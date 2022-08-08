@@ -1,0 +1,30 @@
+
+
+.card{
+
+  background-color: lightgray;
+  margin-bottom: 10px;
+  display: flex;
+justify-content:space-between!important;
+}
+.title-card{
+color:antiquewhite;
+background-color: black;
+width: auto;
+height: 40px;
+display: flex;
+justify-content: center;
+padding: 3px;
+}
+.card-body{
+ text-align: center;
+
+}
+img{
+padding: 10px;
+
+}
+.box{
+padding : 10px 0px;
+
+}
